@@ -17,13 +17,13 @@ h1{
 .fonte{
     font-family: "Pacifico";
     line-height: 10%;
-    position: absolute;
+    position:fixed;
     z-index: 2;
     margin-left: -50px;
 }
 p{
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 0px;
     color: #000;
 }
 .btn-warning{
