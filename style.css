@@ -1,12 +1,12 @@
 *{
     margin: 0;
     padding: 0;
-    background:radial-gradient(circle, rgba(212,244,255,1) 0%, rgba(255,255,255,1) 100%);
+    background:radial-gradient(circle, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
     text-align: center;
     padding-top: 10px;
 }
 body{
-    background-color:#cbd4d7 ;
+    background-color:#fff ;
 }
 h1{
     font-family: "Source Sans Pro";
